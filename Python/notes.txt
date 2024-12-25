@@ -1,0 +1,23 @@
+Python input and output 
+name = arshad
+print("thisis ",name)
+
+amout = 100000
+print("aMPOUT {:.2f}.format(amout)")
+
+print("arhas",end=@)
+print("gmail")   ---> o/p --> arhas@gmail
+
+print("g","f","g", sep="") --> gfg
+print("g","f","g", sep="-") -->g-f-g
+
+
+print(f"mY NAME IS {name}")
+
+
+Typecasting 
+
+a = input("Enter")--> string
+a= int(input("Enter"))--> it will be a intger and give only integer
+
+float(input("Enter"))
