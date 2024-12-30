@@ -11,3 +11,6 @@ def pattern():
         print()
 
 pattern()
+
+
+#output 
